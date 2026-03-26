@@ -43,6 +43,10 @@
   color: var(--text);
 }
 
+.App.dark .top-bar h1 {
+  color: red;
+}
+
 .mode-toggle {
   background: var(--surface);
   border: 1px solid rgba(100,116,139,0.25);
